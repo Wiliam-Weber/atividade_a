@@ -48,19 +48,19 @@ class MeuApp extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.start, 
               children: [
                 Text(
-                  'Oeschinen Lake Campground',
+                  'TESTE TESTE TESTE',
                   style: const TextStyle(fontWeight: FontWeight.bold),
                 ),
                 Container(
                   padding: const EdgeInsets.only(top: 8),
                   child: Text(
-                    'Kandersteg, Switzerland',
+                    'TESTE TESTE TESTE',
                     style: TextStyle(color: Colors.grey[500]),
                   ),
                 ),
               ],
             ),
-          ),
+          ),  
           Icon(Icons.star, color: Colors.red[500]),
           const Text('41'),
         ],
@@ -105,12 +105,12 @@ class MeuApp extends StatelessWidget {
     return const Padding(
       padding: EdgeInsets.all(32),
       child: Text(
-        'Lake Oeschinen lies at the foot of the Blüemlisalp in the Bernese '
-        'Alps. Situated 1,578 meters above sea level, it is one of the '
-        'larger Alpine Lakes. A gondola ride from Kandersteg, followed by a '
-        'half-hour walk through pastures and pine forest, leads you to the '
-        'lake, which warms to 20 degrees Celsius in the summer. Activities '
-        'enjoyed here include rowing, and riding the summer toboggan run.',
+        'TESTE, TESTE, TESte, TESTE, TESTE, TESTE, TESTE, TESTE, TESTE, TESTE, '
+        'TESTE, TESTE, TESTE, TESTE, TESTE, TESTE, TESTE, TESTE, TESTE, TESTE, '
+        'TESTE, TESTE, TESTE, TESTE, TESTE, TESTE, TESTE, TESTE, TESTE, TESTE, '
+        'TESTE, TESTE, TESTE, TESTE, TESTE, TESTE, TESTE, TESTE, TESTE, TESTE, '
+        'TESTE, TESTE, TESTE, TESTE, TESTE, TESTE, TESTE, TESTE, TESTE, TESTE, '
+        'TESTE, TESTE, TESTE, TESTE, TESTE, TESTE, TESTE, TESTE, TESTE, TESTE, ',
         softWrap: true, 
       ),
     );
